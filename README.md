@@ -1,10 +1,7 @@
 # V2ray for Doprax
-Create By ifeng<br>
-Web Site: https://www.hicairo.com <br>
-Telegram: https://t.me/HiaiFeng <br>
 
-# 简介：
-本项目用于在 Doprax.com 免费服务上部署 V2ray ，采用的方案为 Nginx + WebSocket + VMess/VLess + TLS。速度与 Replit 相比较慢，但是官方宣传不限流量，服务启动后永不停机。
+# معرفی:
+این پروژه برای استقرار V2ray در سرویس رایگان Doprax.com استفاده می شود و راه حل اتخاذ شده Nginx + WebSocket + VMess/VLess + TLS است. در مقایسه با Replit، سرعت کمتر است، اما تبلیغات رسمی این است که ترافیک محدود نیست و سرویس پس از شروع آن هرگز متوقف نخواهد شد.
 
 # 注意事项：
 <p><b><li>请勿滥用，账号封禁风险自负。</li></b></p>
